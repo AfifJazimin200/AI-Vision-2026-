@@ -3,3 +3,5 @@
 - **No. Matrik:** BKV0525KA007
 - **Program:** Teknologi komputeran
 - **Course Expectation:** Saya berharap dapat memahami konsep asas Computer Vision dan mengaplikasikan kecerdasan buatan (AI) dalam projek dunia sebenar.
+-
+- Hi my name is Izzat and today's date is 26th of June 2026.
